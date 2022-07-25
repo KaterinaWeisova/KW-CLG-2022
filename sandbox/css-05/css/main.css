@@ -5,10 +5,23 @@ body {
 
 div {
     clear: left;
+    <li class="pes">Pes</li>
+
+    #myList{
+        list-style: circle;
+    }
+}
+#myList .pes{
+    color:red
+  
+}
+   
+#myList .kocka{
+    color:blue
 }
 
-#myList{
-    list-style: circle;
+#myList .kocka.pes {
+    display:none
 }
 
 

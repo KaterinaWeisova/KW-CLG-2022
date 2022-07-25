@@ -1,6 +1,7 @@
 body {
     background-color: white;
-    color: red;
+    color:black;
+    
 }
 
 img {
@@ -8,8 +9,17 @@ img {
     width: 250px;
     height: auto;
     margin: 5px;
+    border-radius: 15px
 }
 
 div {
     clear: left;
+}
+
+ #footer{ 
+    color: rgb(49, 240, 42) ;
+}
+
+.content {
+    color: rgb(52, 33, 221);
 }
